@@ -23,8 +23,8 @@ public class BMI extends Applet implements ActionListener{
 		if(ae.getSource()==b1){
 			float n1 = Float.parseFloat(t1.getText());
 			float n2 = Float.parseFloat(t2.getText());
-			 l3.setLocation(300,300);
-			l3.setSize(300,300);
+			 l3.setLocation(200,200);
+			l3.setSize(600,600);
 			 l3.setFont(new Font("TimesRoman", Font.BOLD, 25));
 		float bmi = (100*100*n1)/(n2*n2);
 		if(bmi < 18.5) {

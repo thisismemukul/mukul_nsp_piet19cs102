@@ -3,6 +3,10 @@ Que:- Design system for Body Mass Calculation
 
 - [Installation Guide](#installation-guide) - How to get started with this project on your system.
 
+<p align="center">
+<img src="https://github.com/thisismemukul/mukul_nsp_piet19cs102/blob/main/public/img/demo.gif" alt="weather-app showcase gif" title="weather-app showcase gif" width="500"/>
+</p>
+
 # <a name='installation-guide'>Installation Guide</a>
 
 This project requires the following tools:
