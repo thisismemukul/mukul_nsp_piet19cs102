@@ -20,8 +20,8 @@ To get started, install Java or JDK on your local computer if you don't have the
 **Step 1. Clone the code into a fresh folder**
 
 ```
-$ git clone https://github.com/thisismemukul/mukul_nsp_piet19cs102.git
-$ cd mukul_nsp_piet19cs102
+git clone https://github.com/thisismemukul/mukul_nsp_piet19cs102.git
+cd mukul_nsp_piet19cs102
 ```
 
 **Step 2. Run file using following commands.**
@@ -29,9 +29,9 @@ $ cd mukul_nsp_piet19cs102
 Use `CMD` or `Terminal`, to run the following commands.
 
 ```
-$ javac BMI.java
+javac BMI.java
 ```
 
 ```
-$ appletviewer BMI.java
+appletviewer BMI.java
 ```
