@@ -1,8 +1,6 @@
 # Java NSP Project
 Que:- Design system for Body Mass Calculation 
 
-created by [Mukul Saini](https://github.com/thisismemukul).
-
 - [Installation Guide](#installation-guide) - How to get started with this project on your system.
 
 # <a name='installation-guide'>Installation Guide</a>
